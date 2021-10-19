@@ -15,6 +15,7 @@ After that, choose your needed options.
 ## You can check out different branches:
 
 * [Node.js](https://github.com/DrSmile444/smile-config-example/tree/project/node)
+* [Node.js Complex](https://github.com/DrSmile444/smile-config-example/tree/project/node-complex)
 * [Angular](https://github.com/DrSmile444/smile-config-example/tree/project/angular)
 * [React](https://github.com/DrSmile444/smile-config-example/tree/project/react)
 * [Vue](https://github.com/DrSmile444/smile-config-example/tree/project/vue)
