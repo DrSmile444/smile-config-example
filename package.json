@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git_reset_all": "git reset --hard && git clean -d -f"
   },
   "dependencies": {
     "vue": "^3.2.16"
