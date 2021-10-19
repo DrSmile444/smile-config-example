@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "git_reset_all": "git reset --hard && git clean -d -f"
   },
   "private": true,
   "dependencies": {
