@@ -1,0 +1,30 @@
+{
+  "name": "smile-config-example",
+  "version": "1.0.0",
+  "description": "Repo with different projects setup for testing Smile Config",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrSmile444/smile-config-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrSmile444/smile-config-example/issues"
+  },
+  "homepage": "https://github.com/DrSmile444/smile-config-example#readme"
+}
