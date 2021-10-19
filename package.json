@@ -1,0 +1,13 @@
+{
+  "name": "smile-config-nodejs",
+  "version": "1.0.0",
+  "description": "Smile Config Node.js Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git_reset_all": "git reset --hard && git clean -d -f"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
